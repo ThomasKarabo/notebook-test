@@ -1,5 +1,3 @@
-# notebook-test
-
 # Notebook Test
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
